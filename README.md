@@ -46,13 +46,13 @@ conjunto de valores como entrada e produz algum valor ou conjunto de valores com
 
 <h2>Exemplo Fluxograma</h2>
 
-<img align="center" alt="Rafa-Ts" height="400" width="500"
+<img align="center" alt="Rafa-Ts" height="700" width="600"
     src="https://github.com/Marilainny/edu-java-developer/blob/main/imagens/fluxograma-exemplo.png">
 <h2>Exemplo Fluxograma de Tomada de Decisão</h2>
-<img align="center" alt="Rafa-Ts" height="400" width="500"
+<img align="center" alt="Rafa-Ts" height="700" width="600"
     src="https://github.com/Marilainny/edu-java-developer/blob/main/imagens/fluxograma-tomada-decisao.png">
 <h2>Exemplo Fluxograma de Estrutura de Repetição</h2>
-<img align="center" alt="Rafa-Ts" height="500" width="500"
+<img align="center" alt="Rafa-Ts" height="700" width="600"
     src="https://github.com/Marilainny/edu-java-developer/blob/main/imagens/fluxograma-estrutura-repeticao.png">
 
 <h2>Portugol</h2>
